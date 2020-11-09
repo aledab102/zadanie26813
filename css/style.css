@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+}
+h1{
+    background-color: yellow;
+    font-size: large;
+}
+.tralala{
+    background-color: red;
+}
+p{
+    background-color: green;
+}
+
+.item1{
+    color: royalblue;
+}
+.item2{
+    color: salmon;
+}
+.item3{
+    color: palegreen;
+}
+.item4{
+    color: purple;
+}
